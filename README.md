@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Costa</h1>
-<h3 align="center">A passionate frontend developer from Sunrise, Fl</h3>
+<h3 align="center">A passionate software developer from Sunrise, Fl</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justice3001&label=Profile%20views&color=0e75b6&style=flat" alt="justice3001" /> </p>
 
