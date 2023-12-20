@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **costaleo93@gmail.com**
 
-- 📄 Know about my experiences [resume link here](resume link here)
+- 📄 Know about my experiences [https://flowcv.com/resume/teqj10qsso]
 
 - ⚡ Fun fact **I'm not just passionate about coding; I'm also an avid runner. Whether it's hitting the pavement or exploring scenic trails, running is my escape. I once participated in a half marathon, and the feeling of crossing the finish line is as exhilarating as solving a complex coding challenge. Let's share our favorite running routes and race stories!**
 
