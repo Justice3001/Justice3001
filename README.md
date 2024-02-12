@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [project1](link here)
 
-- 🌱 I’m currently learning **Angular, Ruby, Golang, Swift,Solidity, Kotlin**
+- 🌱 I’m currently learning **Ruby, Golang**
 
 - 👯 I’m looking to collaborate on [project2](link here)
 
